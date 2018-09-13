@@ -26,3 +26,6 @@ Alternatively for quickstart, see below:
 - Its noted that pressure units are prefixed by (a) or (g) to represent absolute or gauge.
   This is very useful when used in conjunction with the REFPROP excel functions.
   E.g. =convPressure(10,"bar(a)","psi(g)")
+
+## Issues/ Additions
+If you experience issues whilst using the tool, please raise an issue against the project on this repository and I will endevour to rectify as soon as possible. Likewise, if you would like extra units adding, raise an issue detailing the unit plus its conversion type and I will add to the next program release.
